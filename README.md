@@ -1,6 +1,8 @@
 # Probability-Statistics
 
 
+**We worked on the education system of PAKISTAN**
+
  ![image](https://user-images.githubusercontent.com/103254302/182023453-4747336c-c735-49a5-a322-17ec5840ea1d.png)
   
   
